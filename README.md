@@ -3,4 +3,4 @@ Python code for creating a list of phonetic NATO code words based on a given wor
 
 # Example
 Given Word: Apple
-Result: ['Alfa', 'Papa', 'Papa', 'Lima', 'Echo']
+\nResult: ['Alfa', 'Papa', 'Papa', 'Lima', 'Echo']
